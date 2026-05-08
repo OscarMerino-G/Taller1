@@ -1,0 +1,10 @@
+1,Bohemian Rhapsody,Queen,A Night at the Opera,1975,355,C:\Users\LePC\Desktop\Talleres\ElTaller1\Canciones\bohemian_rhapsody.mp3
+2,Imagine,John Lennon,Imagine,1971,183,C:\Users\LePC\Desktop\Talleres\ElTaller1\Canciones\imagine.mp3
+3,Smells Like Teen Spirit,Nirvana,Nevermind,1991,301,C:\Users\LePC\Desktop\Talleres\ElTaller1\Canciones\smells_like_teen_spirit.mp3
+4,Billie Jean,Michael Jackson,Thriller,1982,294,C:\Users\LePC\Desktop\Talleres\ElTaller1\Canciones\billie_jean.mp3
+5,Hey Jude,The Beatles,Hey Jude,1968,431,C:\Users\LePC\Desktop\Talleres\ElTaller1\Canciones\hey_jude.mp3
+6,Like a Rolling Stone,Bob Dylan,Highway 61 Revisited,1965,366,C:\Users\LePC\Desktop\Talleres\ElTaller1\Canciones\like_a_rolling_stone.mp3
+7,Stairway to Heaven,Led Zeppelin,Led Zeppelin IV,1971,482,C:\Users\LePC\Desktop\Talleres\ElTaller1\Canciones\stairway_to_heaven.mp3
+8,Hotel California,Eagles,Hotel California,1976,390,C:\Users\LePC\Desktop\Talleres\ElTaller1\Canciones\hotel_california.mp3
+9,Yesterday,The Beatles,Help!,1965,125,C:\Users\LePC\Desktop\Talleres\ElTaller1\Canciones\yesterday.mp3
+10,Thunderstruck,AC/DC,The Razors Edge,1990,292,C:\Users\LePC\Desktop\Talleres\ElTaller1\Canciones\thunderstruck.mp3
