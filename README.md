@@ -1,5 +1,5 @@
 # Reproductor de musica :trollface:
-## Integrante
+### Integrante
 Oscar Merino
 
 El proyecto
